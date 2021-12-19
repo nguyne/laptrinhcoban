@@ -1,0 +1,72 @@
+F:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS\QLNS\bin\Debug\QLNS.exe
+F:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS\QLNS\bin\Debug\QLNS.pdb
+F:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS\QLNS\obj\x86\Debug\QLNS.Form1.resources
+F:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS\QLNS\obj\x86\Debug\QLNS.Properties.Resources.resources
+F:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS\QLNS\obj\x86\Debug\QLNS.csproj.GenerateResource.Cache
+F:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS\QLNS\obj\x86\Debug\QLNS.exe
+F:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS\QLNS\obj\x86\Debug\QLNS.pdb
+F:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS\QLNS\obj\x86\Debug\QLNS.csprojResolveAssemblyReference.cache
+F:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS _Copy\QLNS\obj\x86\Debug\QLNS.exe
+F:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS _Copy\QLNS\obj\x86\Debug\QLNS.pdb
+F:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS _Copy\QLNS\bin\Debug\QLNS.exe
+F:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS _Copy\QLNS\bin\Debug\QLNS.pdb
+F:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS _Copy\QLNS\obj\x86\Debug\QLNS.csprojResolveAssemblyReference.cache
+F:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS _Copy\QLNS\obj\x86\Debug\QLNS.Form1.resources
+F:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS _Copy\QLNS\obj\x86\Debug\QLNS.Properties.Resources.resources
+F:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS _Copy\QLNS\obj\x86\Debug\QLNS.csproj.GenerateResource.Cache
+D:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS _Copy\QLNS\obj\x86\Debug\QLNS.exe
+D:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS _Copy\QLNS\obj\x86\Debug\QLNS.pdb
+D:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS _Copy\QLNS\bin\Debug\QLNS.exe
+D:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS _Copy\QLNS\bin\Debug\QLNS.pdb
+D:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS _Copy\QLNS\obj\x86\Debug\QLNS.csprojResolveAssemblyReference.cache
+D:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS _Copy\QLNS\obj\x86\Debug\QLNS.Form1.resources
+D:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS _Copy\QLNS\obj\x86\Debug\QLNS.Properties.Resources.resources
+D:\BaiTap_CNLTUD\Bai_Tap_2018_2019_HK1\QLNS _Copy\QLNS\obj\x86\Debug\QLNS.csproj.GenerateResource.Cache
+D:\BaiTap_CNLTUD\Baii_tap_2018_2019_HK2\LINQ\QLNS _LINQ\QLNS\obj\x86\Debug\QLNS.exe
+D:\BaiTap_CNLTUD\Baii_tap_2018_2019_HK2\LINQ\QLNS _LINQ\QLNS\obj\x86\Debug\QLNS.pdb
+D:\BaiTap_CNLTUD\Baii_tap_2018_2019_HK2\LINQ\QLNS _LINQ\QLNS\obj\x86\Debug\QLNS.csprojResolveAssemblyReference.cache
+D:\BaiTap_CNLTUD\Baii_tap_2018_2019_HK2\LINQ\QLNS _LINQ\QLNS\obj\x86\Debug\QLNS.Form1.resources
+D:\BaiTap_CNLTUD\Baii_tap_2018_2019_HK2\LINQ\QLNS _LINQ\QLNS\obj\x86\Debug\QLNS.Properties.Resources.resources
+D:\BaiTap_CNLTUD\Baii_tap_2018_2019_HK2\LINQ\QLNS _LINQ\QLNS\obj\x86\Debug\QLNS.csproj.GenerateResource.Cache
+D:\BaiTap_CNLTUD\Baii_tap_2018_2019_HK2\LINQ\QLNS _LINQ\QLNS\bin\Debug\QLNS.exe
+D:\BaiTap_CNLTUD\Baii_tap_2018_2019_HK2\LINQ\QLNS _LINQ\QLNS\bin\Debug\QLNS.pdb
+D:\BaiTap_CNLTUD\Baii_tap_2018_2019_HK2\ADO\QLNS\QLNS\obj\x86\Debug\QLNS.exe
+D:\BaiTap_CNLTUD\Baii_tap_2018_2019_HK2\ADO\QLNS\QLNS\obj\x86\Debug\QLNS.pdb
+D:\BaiTap_CNLTUD\Baii_tap_2018_2019_HK2\LINQ\QLNS_LINQ\QLNS\obj\x86\Debug\QLNS.exe
+D:\BaiTap_CNLTUD\Baii_tap_2018_2019_HK2\LINQ\QLNS_LINQ\QLNS\obj\x86\Debug\QLNS.pdb
+D:\BaiTap_CNLTUD\Baii_tap_2018_2019_HK2\LINQ\QLNS_LINQ\QLNS\bin\Debug\QLNS.exe
+D:\BaiTap_CNLTUD\Baii_tap_2018_2019_HK2\LINQ\QLNS_LINQ\QLNS\bin\Debug\QLNS.pdb
+D:\BaiTap_CNLTUD\Baii_tap_2018_2019_HK2\LINQ\QLNS_LINQ\QLNS\obj\x86\Debug\QLNS.csprojResolveAssemblyReference.cache
+D:\BaiTap_CNLTUD\Baii_tap_2018_2019_HK2\LINQ\QLNS_LINQ\QLNS\obj\x86\Debug\QLNS.Form1.resources
+D:\BaiTap_CNLTUD\Baii_tap_2018_2019_HK2\LINQ\QLNS_LINQ\QLNS\obj\x86\Debug\QLNS.Properties.Resources.resources
+D:\BaiTap_CNLTUD\Baii_tap_2018_2019_HK2\LINQ\QLNS_LINQ\QLNS\obj\x86\Debug\QLNS.csproj.GenerateResource.Cache
+D:\BaiTap_CNLTUD\Baii_tap_2018_2019_HK2\LINQ\QLNS_LINQ\QLNS\bin\Debug\QLNS.exe.config
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\QLNV_LINQ\QLNS\bin\Debug\QLNS.exe.config
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\QLNV_LINQ\QLNS\obj\x86\Debug\QLNS.exe
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\QLNV_LINQ\QLNS\obj\x86\Debug\QLNS.pdb
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\QLNV_LINQ\QLNS\obj\x86\Debug\QLNS.csprojResolveAssemblyReference.cache
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\QLNV_LINQ\QLNS\obj\x86\Debug\QLNS.Form1.resources
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\QLNV_LINQ\QLNS\obj\x86\Debug\QLNS.Properties.Resources.resources
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\QLNV_LINQ\QLNS\obj\x86\Debug\QLNS.csproj.GenerateResource.Cache
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\QLNV_LINQ\QLNS\bin\Debug\QLNS.exe
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\QLNV_LINQ\QLNS\bin\Debug\QLNS.pdb
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\QLNV_LINQ 2\QLNS\bin\Debug\QLNS.exe.config
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\QLNV_LINQ 2\QLNS\obj\x86\Debug\QLNS.exe
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\QLNV_LINQ 2\QLNS\obj\x86\Debug\QLNS.pdb
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\QLNV_LINQ 2\QLNS\bin\Debug\QLNS.exe
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\QLNV_LINQ 2\QLNS\bin\Debug\QLNS.pdb
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\QLNV_LINQ 2\QLNS\obj\x86\Debug\QLNS.Form1.resources
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\QLNV_LINQ 2\QLNS\obj\x86\Debug\QLNS.Properties.Resources.resources
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\QLNV_LINQ 2\QLNS\obj\x86\Debug\QLNS.csproj.GenerateResource.Cache
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\QLNV_LINQ 2\QLNS\obj\x86\Debug\QLNS.csprojAssemblyReference.cache
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\QLNV_LINQ 2\QLNS\obj\x86\Debug\QLNS.csproj.CoreCompileInputs.cache
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\QLNV_LINQ 2\QLNS\obj\x86\Debug\QLNS.csprojAssemblyReference.cache
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\QLNV_LINQ 2\QLNS\obj\x86\Debug\QLNS.Form1.resources
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\QLNV_LINQ 2\QLNS\obj\x86\Debug\QLNS.Properties.Resources.resources
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\QLNV_LINQ 2\QLNS\obj\x86\Debug\QLNS.csproj.GenerateResource.cache
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\QLNV_LINQ 2\QLNS\obj\x86\Debug\QLNS.csproj.CoreCompileInputs.cache
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\QLNV_LINQ 2\QLNS\obj\x86\Debug\QLNS.exe
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\QLNV_LINQ 2\QLNS\obj\x86\Debug\QLNS.pdb
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\QLNV_LINQ 2\QLNS\bin\Debug\QLNS.exe.config
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\QLNV_LINQ 2\QLNS\bin\Debug\QLNS.exe
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\QLNV_LINQ 2\QLNS\bin\Debug\QLNS.pdb

@@ -1,0 +1,62 @@
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ\WPF_LINQ\bin\Debug\WPF_LINQ.exe.config
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ\WPF_LINQ\bin\Debug\WPF_LINQ.exe
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ\WPF_LINQ\bin\Debug\WPF_LINQ.pdb
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ.csprojResolveAssemblyReference.cache
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\MainWindow.g.cs
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\App.g.cs
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ_MarkupCompile.cache
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ_MarkupCompile.lref
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\MainWindow.baml
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ.g.resources
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ.Properties.Resources.resources
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ.csproj.GenerateResource.Cache
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ.exe
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ.pdb
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ_VD\WPF_LINQ\bin\Debug\WPF_LINQ.exe.config
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ_VD\WPF_LINQ\obj\Debug\WPF_LINQ.exe
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ_VD\WPF_LINQ\obj\Debug\WPF_LINQ.pdb
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ_VD\WPF_LINQ\bin\Debug\WPF_LINQ.exe
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ_VD\WPF_LINQ\bin\Debug\WPF_LINQ.pdb
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ_VD\WPF_LINQ\obj\Debug\WPF_LINQ.csprojResolveAssemblyReference.cache
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ_VD\WPF_LINQ\obj\Debug\MainWindow.g.cs
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ_VD\WPF_LINQ\obj\Debug\App.g.cs
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ_VD\WPF_LINQ\obj\Debug\WPF_LINQ_MarkupCompile.cache
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ_VD\WPF_LINQ\obj\Debug\WPF_LINQ_MarkupCompile.lref
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ_VD\WPF_LINQ\obj\Debug\MainWindow.baml
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ_VD\WPF_LINQ\obj\Debug\WPF_LINQ.g.resources
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ_VD\WPF_LINQ\obj\Debug\WPF_LINQ.Properties.Resources.resources
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ_VD\WPF_LINQ\obj\Debug\WPF_LINQ.csproj.GenerateResource.Cache
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ_VD\WPF_LINQ\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\Gui SV tham khao\WPF_LINQ\WPF_LINQ\bin\Debug\WPF_LINQ.exe.config
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\Gui SV tham khao\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ.exe
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\Gui SV tham khao\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ.pdb
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\Gui SV tham khao\WPF_LINQ\WPF_LINQ\bin\Debug\WPF_LINQ.exe
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\Gui SV tham khao\WPF_LINQ\WPF_LINQ\bin\Debug\WPF_LINQ.pdb
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\Gui SV tham khao\WPF_LINQ\WPF_LINQ\obj\Debug\MainWindow.g.cs
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\Gui SV tham khao\WPF_LINQ\WPF_LINQ\obj\Debug\App.g.cs
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\Gui SV tham khao\WPF_LINQ\WPF_LINQ\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\Gui SV tham khao\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ_MarkupCompile.cache
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\Gui SV tham khao\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ_MarkupCompile.lref
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\Gui SV tham khao\WPF_LINQ\WPF_LINQ\obj\Debug\MainWindow.baml
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\Gui SV tham khao\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ.g.resources
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\Gui SV tham khao\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ.Properties.Resources.resources
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\Gui SV tham khao\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ.csproj.GenerateResource.Cache
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\Gui SV tham khao\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ.csprojAssemblyReference.cache
+D:\BaiTap_CNLTUD\Bai_Tap_2019_2020_HK2\Gui SV tham khao\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ.csproj.CoreCompileInputs.cache
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\WPF_LINQ\WPF_LINQ\bin\Debug\WPF_LINQ.exe.config
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\WPF_LINQ\WPF_LINQ\bin\Debug\WPF_LINQ.exe
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\WPF_LINQ\WPF_LINQ\bin\Debug\WPF_LINQ.pdb
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ.csprojAssemblyReference.cache
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\MainWindow.g.cs
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\App.g.cs
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ_MarkupCompile.cache
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ_MarkupCompile.lref
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\MainWindow.baml
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ.g.resources
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ.Properties.Resources.resources
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ.csproj.GenerateResource.cache
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ.csproj.CoreCompileInputs.cache
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ.exe
+D:\BaiTap_CNLTUD\Hoc_ky_2_2020_2021\LINQ\WPF_LINQ\WPF_LINQ\obj\Debug\WPF_LINQ.pdb
